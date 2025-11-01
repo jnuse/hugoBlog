@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on 聆听·彼岸的博客|闲人记闲文闲事 - 彼岸少年</title>
-    <link>https://blog.pixiv.tech/categories/test/</link>
+    <link>https://blog.030216.xyz/categories/test/</link>
     <description>Recent content from 聆听·彼岸的博客|闲人记闲文闲事 - 彼岸少年</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Thu, 09 Jun 2022 20:12:52 +0800</lastBuildDate>
     
     
-    <atom:link href="https://blog.pixiv.tech/categories/test/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://blog.030216.xyz/categories/test/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>Markdown Basic Elements</title>
-      <link>https://blog.pixiv.tech/20220609201252/</link>
+      <link>https://blog.030216.xyz/20220609201252/</link>
       <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
       <author>xxx@example.com (聆听·彼岸)</author>
-      <guid>https://blog.pixiv.tech/20220609201252/</guid>
+      <guid>https://blog.030216.xyz/20220609201252/</guid>
       <description>
         <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：聆听·彼岸（xxx@example.com）</p>
         
@@ -89,7 +89,7 @@ Unordered List (ul)
 段落
 </h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <u>Underline text</u> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
         
-        <hr><p>本文2022-06-09首发于<a href='https://blog.pixiv.tech/'>聆听·彼岸的博客|闲人记闲文闲事 - 彼岸少年</a>，最后修改于2022-06-09</p>]]>
+        <hr><p>本文2022-06-09首发于<a href='https://blog.030216.xyz/'>聆听·彼岸的博客|闲人记闲文闲事 - 彼岸少年</a>，最后修改于2022-06-09</p>]]>
       </description>
       
         <category>test</category>
